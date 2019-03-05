@@ -1,0 +1,33 @@
+
+06/10/2018 17:50:26 PagSeguro.Session[info]: Begin
+06/10/2018 17:50:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+06/10/2018 17:50:27 PagSeguro.Session[info]: Session ID: ae07c08ebe384c87a3e1fca8c0b51374
+06/10/2018 17:58:48 PagSeguro.Session[info]: Begin
+06/10/2018 17:58:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+06/10/2018 17:58:49 PagSeguro.Session[info]: Session ID: e35d5b608a8b4a7eb60a99f49168fdee
+06/10/2018 18:00:19 PagSeguro.DirectPayment.CreditCard[info]: Begin
+06/10/2018 18:00:19 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+06/10/2018 18:00:19 PagSeguro.Checkout[info]: Params: {"reference":"55","notificationURL":"http:\/\/localhost\/newLoja\/psckttransparente\/notification","billingAddressStreet":"Rua S\u00e3o jos\u00e9","billingAddressNumber":"919","billingAddressComplement":"Mercearia do edvar","billingAddressCity":"Cl\u00e1udio","billingAddressState":"MG","billingAddressDistrict":"S\u00e3o Geraldo","billingAddressPostalCode":"35530000","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Marcelo Alexandre","creditCardHolderCPF":"05027037686","installmentQuantity":"1","installmentValue":"630.71","itemId1":3,"itemDescription1":"Monitor 19 polegadas","itemQuantity1":1,"itemAmount1":"599.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"alexandremarcelo48@gmail.com","senderName":"Marcelo Alexandre","senderEmail":"c67010478413129535890@sandbox.pagseguro.com.br","senderAreaCode":"37","senderPhone":"(**) 9999-****","senderCPF":"050.***.***-**","senderIp":"127.0.0.1","senderHash":"47cb41496ab20300c690a127230c4e68c428968e54daf404d046fed8f0ec8618","shippingCost":"31.71","shippingAddressStreet":"Rua S\u00e3o jos\u00e9","shippingAddressNumber":"919","shippingAddressComplement":"Mercearia do edvar","shippingAddressCity":"Cl\u00e1udio","shippingAddressState":"MG","shippingAddressDistrict":"S\u00e3o Geraldo","shippingAddressPostalCode":"35530000","shippingAddressCountry":"BRA","creditCardToken":"3c8f57e0b466480aa69dd315173952b7"}
+06/10/2018 18:00:22 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: A7CBC1D2-2651-4034-8478-70EFED45FB6E
+06/10/2018 18:07:34 PagSeguro.Session[info]: Begin
+06/10/2018 18:07:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+06/10/2018 18:07:35 PagSeguro.Session[info]: Session ID: 808d875affaa4006bf47ac7043c9ce2b
+06/10/2018 18:10:41 PagSeguro.Session[info]: Begin
+06/10/2018 18:10:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+06/10/2018 18:10:42 PagSeguro.Session[info]: Session ID: 3d4d336e066c4e52b6d77cc8b0fd9895
+15/12/2018 17:23:41 PagSeguro.Session[info]: Begin
+15/12/2018 17:23:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+15/12/2018 17:23:44 PagSeguro.Session[info]: Session ID: 0b8d3b138bb84fedb79b4a3b7698c746
+15/12/2018 17:25:12 PagSeguro.Session[info]: Begin
+15/12/2018 17:25:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+15/12/2018 17:25:13 PagSeguro.Session[info]: Session ID: dcf5743b35b743828c453320427786f0
+15/12/2018 17:25:39 PagSeguro.DirectPayment.CreditCard[info]: Begin
+15/12/2018 17:25:39 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+15/12/2018 17:25:39 PagSeguro.Checkout[info]: Params: {"reference":"54","notificationURL":"http:\/\/localhost\/newLoja\/psckttransparente\/notification","billingAddressStreet":"Rua S\u00e3o jos\u00e9","billingAddressNumber":"919","billingAddressComplement":"Mercearia do edvar","billingAddressCity":"Cl\u00e1udio","billingAddressState":"MG","billingAddressDistrict":"S\u00e3o Geraldo","billingAddressPostalCode":"35530000","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Marcelo Alexandre","creditCardHolderCPF":"05027037686","installmentQuantity":"3","installmentValue":"151.53","itemId1":2,"itemDescription1":"Monitor 18 polegadas","itemQuantity1":1,"itemAmount1":"399.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"alexandremarcelo48@gmail.com","senderName":"Marcelo Alexandre","senderEmail":"c67010478413129535890@sandbox.pagseguro.com.br","senderAreaCode":"37","senderPhone":"(**) 9999-****","senderCPF":"050.***.***-**","senderIp":"127.0.0.1","senderHash":"7d8d317434efb223df0c3a6f9b4263d15a416842314b0ffa9bfa47d4386ff796","shippingCost":"29.69","shippingAddressStreet":"Rua S\u00e3o jos\u00e9","shippingAddressNumber":"919","shippingAddressComplement":"Mercearia do edvar","shippingAddressCity":"Cl\u00e1udio","shippingAddressState":"MG","shippingAddressDistrict":"S\u00e3o Geraldo","shippingAddressPostalCode":"35530000","shippingAddressCountry":"BRA","creditCardToken":"e739c06d608447909dc849f078fd6cf5"}
+15/12/2018 17:25:42 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 8A271480-B47D-441F-AFBF-72978BAC98A3
+19/01/2019 16:27:39 PagSeguro.Session[info]: Begin
+19/01/2019 16:27:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+19/01/2019 16:27:40 PagSeguro.Session[info]: Session ID: dbffc3c271b44942928654cf3aa8f852
+17/02/2019 16:59:05 PagSeguro.Session[info]: Begin
+17/02/2019 16:59:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=alexandremarcelo48%40gmail.com&token=563DA405C46741C98832B5272717FE1B
+17/02/2019 16:59:06 PagSeguro.Session[info]: Session ID: cf4b6a92bd5f411db3d77c599c931249
